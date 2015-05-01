@@ -1,0 +1,1 @@
+Ga naar documents -> Visual Studio 2013 -> Templates en sleep daar de 2 mappen in.
